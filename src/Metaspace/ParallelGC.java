@@ -1,12 +1,7 @@
 package Metaspace;
 
-import Heap.G1;
-
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Random;
-import java.util.concurrent.TimeUnit;
 
 /**
  * -XX:MaxMetaspaceSize=1m
